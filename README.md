@@ -1,0 +1,2 @@
+# Stack
+penerpan penggunaan stack
